@@ -1,0 +1,8 @@
+@font-face {
+    font-family: WhatDaFont;
+    src: url("Neon.ttf");
+}
+
+body {
+    font-family: "WhatDaFont";
+}
